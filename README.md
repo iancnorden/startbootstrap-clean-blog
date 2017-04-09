@@ -1,4 +1,4 @@
-# [SSLMend Website Page](https://sslmend.com/)
+# [SSLMend Site Repo](https://sslmend.com/)
 
 ## Getting Started
 
